@@ -1,0 +1,7 @@
+Id,Name,Address,Course,Deposited Amount,Due Left,Is_Graduated
+1,Supriya Shahi,Kalanki,Full Stack Development,20000,0,True
+2,Pratik Shrestha,Chabahil,Full Stack Development,15000,5000,True
+3,Dibya Shakya,Kalimati,Data Mining & warehouse,20000,0,False
+4,Aditi Sharma,New Road,Graphic Designing,20000,0,True
+5,Sajal Sapkota,Lazimpat,Digital Marketing,10000,10000,True
+6,Saman Pradhan,Satdobato,AI/ML,8000,12000,False
